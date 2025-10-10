@@ -4,6 +4,10 @@
   🔒 Passionné par la sécurité des systèmes et le pentesting <br>
   🌍 Basé à Clermont-Ferrand, France
 </p>
+<p align="center">
+  <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>
+</p>
+
 
 ---
 
@@ -20,16 +24,13 @@
 
 ---
 
-## 🌐 Portfolio & Démonstrations
+## 🌐 Portfolio
 
 <p align="center">
   Découvrez mon portfolio complet avec mes projets et réalisations : <br>
   <a href="https://ethmanou.github.io/portofolio/" target="_blank">💻 ethmanou.github.io/portofolio/</a>
 </p>
 
-<p align="center">
-  <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>
-</p>
 
 
 ---

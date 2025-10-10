@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👋 Salut, je suis Mohameden (ethm.mdene)</h1>
 
-<!--
-**ethmanou/ethmanou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Étudiant en <strong>cybersécurité & réseaux</strong> <br>
+  🔒 Passionné par la sécurité web, le pentesting et la cryptographie <br>
+  🌍 Basé à Clermont-Ferrand
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+- 🎓 Étudiant en ingénierie réseau et cybersécurité  
+- 🧠 En préparation de la certification **CompTIA Security+**  
+- 💡 J’aime expérimenter avec **ModSecurity, WAF, et attaques web simulées**  
+- ⚙️ Langages : `Python`, `C#`, `Bash`, `HTML/CSS`, `JS`  
+- 🌱 Toujours en train d’apprendre des sujets autour du **post-quantique** et du **forensique**
+
+---
+
+### 🛠️ Mes projets
+🔹 [Portfolio personnel](https://ethmanou.github.io/portofolio/)  
+🔹 [ModSecurity comparative study](#) *(à compléter)*  
+
+---
+
+### 📫 Me contacter
+- ✉️ [mohamedene.ethmanou@etu.uca.fr](mailto:mohamedene.ethmanou@etu.uca.fr)
+- 🌐 [ethmanou.github.io/portofolio](https://ethmanou.github.io/portofolio/)
+
+---
+
+⭐ N’hésite pas à explorer mes dépôts et à laisser un 🌟 sur ceux que tu trouves intéressants !

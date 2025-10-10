@@ -55,17 +55,15 @@
 
 <p align="center">
   ✉️ [mohamedene.ethmanou@etu.uca.fr](mailto:mohamedene.ethmanou@etu.uca.fr) &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/mohamedene-ethmanou/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/ethmanou/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <a href="https://ethmanou.github.io/portofolio/">Portfolio</a>
 </p>
 
 ---
 
-## 📊 Statistiques GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethmanou&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethmanou&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Montre tes principaux langages sans révéler le nombre de contributions -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethmanou&layout=compact&theme=radical" alt="Langages utilisés"/>
 </p>
 
 ---

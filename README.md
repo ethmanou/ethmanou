@@ -1,57 +1,56 @@
 <h1 align="center">👋 Salut, je suis Mohamedene ETHMANOU</h1>
 <p align="center">
-  💻 Étudiant en <strong>Cybersécurité & Réseaux</strong> <br>
-  🔒 Passionné par la sécurité web, le pentesting, et la cryptographie <br>
+  🎓 Étudiant en Cybersécurité & Réseaux à l'ISIMA <br>
+  🔒 Passionné par la sécurité des systèmes et le pentesting <br>
   🌍 Basé à Clermont-Ferrand, France
 </p>
 
 ---
 
-## 🚀 À propos de moi
-Je suis un étudiant en ingénierie réseau et cybersécurité avec un intérêt marqué pour :
-- La sécurité web et les tests d’intrusion
-- La cryptographie, y compris la cryptographie post-quantique
-- La surveillance et l’optimisation des systèmes
+## 🧰 Compétences
 
-Je combine **compétences techniques** et curiosité pour les nouvelles technologies afin de construire des solutions sécurisées et fiables.
-
----
-
-## 🛠️ Compétences techniques
-| Domaine | Compétences |
-|---------|------------|
-| Langages | Python, C#, Bash, HTML, CSS, JavaScript |
-| Réseaux | TCP/IP, VLAN, VPN, DHCP, DNS |
-| Sécurité | Pentesting, WAF, ModSecurity, Analyse d’attaques web |
-| Outils | Docker, Wireshark, Git, GitHub, VS Code |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9-blue" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-8.0-blueviolet" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash-5.1-green" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26-orange" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6-blue" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E-yellow" alt="JavaScript" />
+</p>
 
 ---
 
-## 📂 Projets clés
-### [Portfolio Personnel](https://ethmanou.github.io/portofolio/)
-- Mon site personnel présentant mon parcours, mes compétences et mes projets.
-- Technologies : HTML, CSS, JavaScript
-- Objectif : Présenter un profil professionnel clair et accessible en ligne
+## 🌐 Portfolio & Démonstrations
 
-### ModSecurity Comparative Study *(en cours)*
-- Étude de performance et sécurité entre deux modes de déploiement de ModSecurity.
-- Technologies : Docker, ModSecurity, tests d’attaques web simulées
+<p align="center">
+  Découvrez mon portfolio complet avec mes projets et réalisations : <br>
+  <a href="https://ethmanou.github.io/portofolio/" target="_blank">💻 ethmanou.github.io/portofolio/</a>
+</p>
 
-*(D’autres projets peuvent être ajoutés ici avec description, technologie et lien GitHub)*
-
----
-
-## 📫 Contact
-- ✉️ Email : [mohamedene.ethmanou@etu.uca.fr](mailto:mohamedene.ethmanou@etu.uca.fr)  
-- 🌐 Portfolio : [https://ethmanou.github.io/portofolio/](https://ethmanou.github.io/portofolio/)  
-- GitHub : [https://github.com/ethmanou](https://github.com/ethmanou)
+<p align="center">
+  <!-- Ici tu peux insérer un GIF ou une capture animée de ton portfolio -->
+  <img src="https://media.giphy.com/media/abc123/giphy.gif" alt="Démonstration" width="500"/>
+</p>
 
 ---
 
-## 🌟 Stats GitHub
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=ethmanou&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ethmanou&layout=compact&theme=radical)
+## 📬 Contact
+
+<p align="center">
+  ✉️ [mohamedene.ethmanou@etu.uca.fr](mailto:mohamedene.ethmanou@etu.uca.fr) &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/mohamedene-ethmanou/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌐 <a href="https://ethmanou.github.io/portofolio/">Portfolio</a>
+</p>
 
 ---
 
-⭐ N’hésite pas à explorer mes dépôts et à laisser un 🌟 si tu trouves mes projets intéressants !
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethmanou&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethmanou&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+⭐ Explorez mon portfolio et mes projets pour découvrir mon univers en cybersécurité et réseaux !

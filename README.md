@@ -2,7 +2,6 @@
 <p align="center">
   🎓 Ingénieur en Cybersécurité & Réseaux  <br>
   🔒 Passionné par la sécurité des systèmes et le pentesting <br>
-  🌍 Basé à Clermont-Ferrand, France
 </p>
 <p align="center">
   <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>

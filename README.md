@@ -1,6 +1,6 @@
 <h1 align="center">👋 Salut, je suis Mohamedene ETHMANOU</h1>
 <p align="center">
-  🎓 Étudiant en Cybersécurité & Réseaux à l'ISIMA <br>
+  🎓 Ingénieur en Cybersécurité & Réseaux à l'ISIMA <br>
   🔒 Passionné par la sécurité des systèmes et le pentesting <br>
   🌍 Basé à Clermont-Ferrand, France
 </p>

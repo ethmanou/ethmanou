@@ -24,13 +24,13 @@
 
 <p align="center">
   Découvrez mon portfolio complet avec mes projets et réalisations : <br>
-  <a href="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" target="_blank">💻 ethmanou.github.io/portofolio/</a>
+  <a href="https://ethmanou.github.io/portofolio/" target="_blank">💻 ethmanou.github.io/portofolio/</a>
 </p>
 
 <p align="center">
-  <!-- Ici tu peux insérer un GIF ou une capture animée de ton portfolio -->
-  <img src="https://media.giphy.com/media/abc123/giphy.gif" alt="Démonstration" width="500"/>
+  <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>
 </p>
+
 
 ---
 

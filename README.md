@@ -44,6 +44,8 @@
 <p align="center">
   Découvrez mon portfolio complet avec mes projets et réalisations : <br>
   <a href="https://ethmanou.github.io/portofolio/" target="_blank">💻 ethmanou.github.io/portofolio/</a>
+  <a href="https://perso.isima.fr/~moethmanou/" target="_blank">💻 perso.isima.fr/~moethmanou/</a>
+
 </p>
 
 

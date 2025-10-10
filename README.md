@@ -53,10 +53,11 @@
 ## 📬 Contact
 
 <p align="center">
-  ✉️ [mohamedene.ethmanou@etu.uca.fr](mailto:mohamedene.ethmanou@etu.uca.fr) &nbsp;&nbsp;|&nbsp;&nbsp;
+  ✉️ <a href="mailto:mohamedene.ethmanou@etu.uca.fr">mohamedene.ethmanou@etu.uca.fr</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🔗 <a href="https://www.linkedin.com/in/ethmanou/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🌐 <a href="https://ethmanou.github.io/portofolio/">Portfolio</a>
 </p>
+
 
 ---
 

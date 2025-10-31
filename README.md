@@ -7,7 +7,7 @@
   <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ethmanou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/ethmanou?trk=profile-badge">Mohamedene E.</a></div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamedene%20E-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ethmanou/) [![GitHub](https://img.shields.io/badge/GitHub-Mohamedene%20E-black?logo=github&style=flat-square)](https://github.com/ethmanou)
               
 
 
@@ -71,7 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethmanou&layout=compact&theme=radical" alt="Langages utilisés"/>
 </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ---
 

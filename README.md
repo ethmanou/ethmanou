@@ -1,7 +1,6 @@
 <h1 align="center">👋 Salut, je suis Mohamedene ETHMANOU</h1>
 <p align="center">
-  🎓 Ingénieur en Cybersécurité & Réseaux  <br>
-  🔒 Passionné par la sécurité des systèmes et le pentesting <br>
+  🎓 Ingénieur en Informatique
 </p>
 <p align="center">
   <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>

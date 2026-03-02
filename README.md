@@ -3,7 +3,7 @@
   🎓 Ingénieur en Informatique
 </p>
 <p align="center">
-  <img src="https://ethmanou.github.io/portofolio/opscenter/img/ban.png" alt="Capture de mon portfolio" width="500"/>
+
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamedene%20E-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ethmanou/) [![GitHub](https://img.shields.io/badge/GitHub-Mohamedene%20E-black?logo=github&style=flat-square)](https://github.com/ethmanou)
